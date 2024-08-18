@@ -25,5 +25,4 @@ The project is divided into two main parts:
 1. Frontend (React application)
 2. Backend (Node.js server)
 
-## Setup and Installation
 
