@@ -1,8 +1,29 @@
-# React + Vite
+# Multi-User Messaging System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+This project implements a multi-user messaging system with real-time capabilities. It's built using modern web technologies and focuses on providing a seamless chatting experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+1. Frontend: React (Vite) with Tailwind CSS
+2. Backend: NodeJS with Express
+3. Database: Postgres with Drizzle ORM
+4. Real-time Communication: Socket.IO
+
+## Features
+
+1. Real-time messaging between users
+2. Online/offline status indicators for users
+3. "Typing..." indicator while chatting
+4. Infinite scrolling of messages to the top
+
+## Project Structure
+
+The project is divided into two main parts:
+
+1. Frontend (React application)
+2. Backend (Node.js server)
+
+## Setup and Installation
+
