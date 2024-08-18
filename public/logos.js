@@ -1,0 +1,2 @@
+export const maleAvatar = "https://ik.imagekit.io/luxswipe/ChatterBox/maleAvatar.jpg?updatedAt=1723947453026"
+export const femaleAvatar = "https://ik.imagekit.io/luxswipe/ChatterBox/femaleAvatar.jpg?updatedAt=1723947452940"
